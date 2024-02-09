@@ -15,10 +15,10 @@
 #a = a + a
 #print(a)
 
-#puppies = 6
-#weight = 2
+puppies = 6
+weight = 2
 
-#total = puppies * weight
-#print(total)
+total = puppies * weight
+print(total)
 
 

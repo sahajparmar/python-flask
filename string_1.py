@@ -1,7 +1,7 @@
 
 #print(len("Hello World"))
 
-#mystring1 = "Hello World"
+mystring1 = "Hello World"
 
 #print(mystring1[1])
 
@@ -40,7 +40,7 @@ username = "Sammy"
 
 color = "blue"
 
-print("The {} favorite is {}.".format(username,color))
+#print("The {} favorite is {}.".format(username,color))
 
 #f string literals!!
 
